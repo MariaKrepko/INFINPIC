@@ -1,0 +1,28 @@
+D:\Учеба\3 курс\Стеганография\Лабы\KochZhao\KochZhao\bin\Debug\KochZhao.exe.config
+D:\Учеба\3 курс\Стеганография\Лабы\KochZhao\KochZhao\bin\Debug\KochZhao.exe
+D:\Учеба\3 курс\Стеганография\Лабы\KochZhao\KochZhao\bin\Debug\KochZhao.pdb
+D:\Учеба\3 курс\Стеганография\Лабы\KochZhao\KochZhao\obj\Debug\KochZhao.Properties.Resources.resources
+D:\Учеба\3 курс\Стеганография\Лабы\KochZhao\KochZhao\obj\Debug\KochZhao.csproj.GenerateResource.Cache
+D:\Учеба\3 курс\Стеганография\Лабы\KochZhao\KochZhao\obj\Debug\KochZhao.exe
+D:\Учеба\3 курс\Стеганография\Лабы\KochZhao\KochZhao\obj\Debug\KochZhao.pdb
+D:\Учеба\3 курс\Стеганография\Лабы\KochZhao\KochZhao\obj\Debug\KochZhao.Form1.resources
+D:\Учеба\3 курс\Стеганография\Лабы\KochZhao\KochZhao\obj\Debug\KochZhao.csprojResolveAssemblyReference.cache
+E:\Desktop\KochZhao\KochZhao\bin\Debug\KochZhao.exe.config
+E:\Desktop\KochZhao\KochZhao\obj\Debug\KochZhao.exe
+E:\Desktop\KochZhao\KochZhao\obj\Debug\KochZhao.pdb
+E:\Desktop\KochZhao\KochZhao\bin\Debug\KochZhao.exe
+E:\Desktop\KochZhao\KochZhao\bin\Debug\KochZhao.pdb
+E:\Desktop\KochZhao\KochZhao\obj\Debug\KochZhao.csprojResolveAssemblyReference.cache
+E:\Desktop\KochZhao\KochZhao\obj\Debug\KochZhao.Form1.resources
+E:\Desktop\KochZhao\KochZhao\obj\Debug\KochZhao.Properties.Resources.resources
+E:\Desktop\KochZhao\KochZhao\obj\Debug\KochZhao.csproj.GenerateResource.Cache
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\bin\Debug\KochZhao.exe.config
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\KochZhao.exe
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\KochZhao.pdb
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\bin\Debug\KochZhao.exe
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\bin\Debug\KochZhao.pdb
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\KochZhao.csprojResolveAssemblyReference.cache
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\KochZhao.Form1.resources
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\KochZhao.Form2.resources
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\KochZhao.Properties.Resources.resources
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\KochZhao.csproj.GenerateResource.Cache

@@ -1,0 +1,34 @@
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\bin\Debug\KochZhao.exe.config
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\bin\Debug\KochZhao.exe
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\bin\Debug\KochZhao.pdb
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\KochZhao.Form1.resources
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\KochZhao.Form2.resources
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\KochZhao.Properties.Resources.resources
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\INFINPIC.csproj.GenerateResource.Cache
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\KochZhao.exe
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\KochZhao.pdb
+E:\Desktop\КУРСОВАЯ_Компьютерная-графика\KochZhao\KochZhao\obj\Debug\KochZhao.Form3.resources
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.csproj.GenerateResource.Cache
+E:\Desktop\KochZhao\KochZhao\bin\Debug\INFINPIC.exe.config
+E:\Desktop\KochZhao\KochZhao\bin\Debug\INFINPIC.exe
+E:\Desktop\KochZhao\KochZhao\bin\Debug\INFINPIC.pdb
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.Properties.Resources.resources
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.exe
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.pdb
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.Form1.resources
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.Form2.resources
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.Form3.resources
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.Form4.resources
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.FormClear.resources
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.FormClear_new.resources
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.csprojResolveAssemblyReference.cache
+E:\Desktop\KochZhao\KochZhao\bin\Debug\Properties\Resources.resx
+E:\Desktop\KochZhao\KochZhao\bin\Debug\Properties\Resources.Designer.cs
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.Help.resources
+E:\Desktop\KochZhao\KochZhao\bin\Debug\INFINPIC.exe.manifest
+E:\Desktop\KochZhao\KochZhao\bin\Debug\INFINPIC.application
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.exe.manifest
+E:\Desktop\KochZhao\KochZhao\obj\Debug\INFINPIC.application
+E:\Desktop\INFINPIC - все файлы\KochZhao\KochZhao\bin\Debug\INFINPIC.exe.config
+E:\Desktop\INFINPIC - все файлы\KochZhao\KochZhao\obj\Debug\INFINPIC.exe
+E:\Desktop\INFINPIC - все файлы\KochZhao\KochZhao\obj\Debug\INFINPIC.pdb
